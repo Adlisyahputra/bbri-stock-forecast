@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Namira/Projects/bbri-stock-forecast/notebooks/mlruns/1/models/m-17c381e9fad245ea9f7701a2117443ac/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+mlflow_version: 3.16.0
+model_id: m-17c381e9fad245ea9f7701a2117443ac
+model_size_bytes: 8083
+model_uuid: m-17c381e9fad245ea9f7701a2117443ac
+prompts: null
+run_id: 5b112322dd1b4100bfa1394da81534e1
+utc_time_created: '2026-09-14 03:49:43.855566'
