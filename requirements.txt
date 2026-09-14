@@ -8,7 +8,7 @@ anyio==4.15.1
 argon2-cffi==25.1.0
 argon2-cffi-bindings==26.1.0
 arrow==1.4.0
-asttokens==3.0.2
+asttokens==3.0.2s
 async-lru==2.3.0
 attrs==26.1.0
 babel==2.18.0
@@ -52,6 +52,7 @@ httpx==0.28.1
 huey==3.4.0
 idna==3.19
 importlib_metadata==9.0.1
+iniconfig==2.3.0
 ipykernel==7.3.0
 ipython==9.17.1
 ipython_pygments_lexers==1.1.1
@@ -110,6 +111,7 @@ parso==0.8.7
 peewee==4.5.1
 pillow==12.3.0
 platformdirs==4.11.8
+pluggy==1.6.0
 prettytable==3.18.0
 prometheus_client==0.26.0
 prompt_toolkit==3.0.53
@@ -125,6 +127,7 @@ pydantic==2.13.5
 pydantic_core==2.46.5
 Pygments==2.21.0
 pyparsing==3.3.2
+pytest==9.1.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.3
 python-json-logger==4.2.0
